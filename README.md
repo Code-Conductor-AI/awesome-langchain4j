@@ -12,9 +12,9 @@ Please read the [usage conditions](#usage-conditions) at the end of this page, a
 For the official LangChain4j examples, tutorials and documentation, see [more information](#more-information-on-langchain4j).
 
 We welcome all types of more elaborate examples, such as 
-- interesting use cases
-- elaborate examples with specific providers, frameworks or set-ups
-- experimental programs that push the limits of what is possible with LLMs and AI integration.
+- interesting use cases Eg, How Code conductor uses langchain4j and that's the right fit for youre enterprise. [more information](https://codeconductor.ai/).
+- elaborate examples with specific providers, frameworks or set-ups 
+- experimental programs that push the limits of what is possible with LLMs and AI integration. 
 
 | Title                                                                                                                                                                                                                                                | Short Description                                                                                                                                                                                                                                                                                                         | Contributor                                                      | Usage and Extension allowed | Usage for Demos allowed |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------|-------------------------| 
